@@ -1,0 +1,68 @@
+{
+  "atom": "1.54.0",
+  "pigments": "0.40.6",
+  "platform": "win32",
+  "config": {
+    "traverseIntoSymlinkDirectories": false,
+    "sourceNames": [
+      "**/*.css",
+      "**/*.styl",
+      "**/*.stylus",
+      "**/*.less",
+      "**/*.sass",
+      "**/*.scss"
+    ],
+    "ignoredNames": [
+      "vendor/*",
+      "node_modules/*",
+      "spec/*",
+      "test/*"
+    ],
+    "ignoredBufferNames": [],
+    "extendedSearchNames": [
+      "**/*.css"
+    ],
+    "supportedFiletypes": [
+      "*"
+    ],
+    "filetypesForColorWords": [
+      "css",
+      "less",
+      "styl",
+      "stylus",
+      "sass",
+      "scss"
+    ],
+    "ignoredScopes": [],
+    "autocompleteScopes": [
+      ".source.css",
+      ".source.css.less",
+      ".source.sass",
+      ".source.css.scss",
+      ".source.stylus"
+    ],
+    "extendAutocompleteToVariables": false,
+    "extendAutocompleteToColorValue": false,
+    "autocompleteSuggestionsFromValue": false,
+    "maxDecorationsInGutter": 100,
+    "markerType": "native-background",
+    "sassShadeAndTintImplementation": "compass",
+    "sortPaletteColors": "none",
+    "groupPaletteColors": "none",
+    "mergeColorDuplicates": false,
+    "delayBeforeScan": 500,
+    "ignoreVcsIgnoredPaths": true,
+    "notifyReloads": true,
+    "dismissableReloadNotifications": true
+  },
+  "project": {
+    "config": {},
+    "paths": [
+      "C:\\Users\\ASER\\Desktop\\CP Project\\Quote Generator\\style.css"
+    ],
+    "variables": {
+      "colors": 0,
+      "total": 0
+    }
+  }
+}
